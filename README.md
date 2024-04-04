@@ -19,3 +19,8 @@ The report includes:
 
    ```bash
    git clone https://github.com/your-username/pandas-profiling-report.git
+
+
+ ##   Pandas Profiling Report Output 🤩
+
+The Pandas Profiling report for the dataset can be accessed [here](https://drive.google.com/file/d/1iFAyMztmZN7uXUVb7h_HUvpYwecGcYgD/view?usp=sharing).
